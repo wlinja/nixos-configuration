@@ -15,7 +15,7 @@ This repository uses Nix flakes to declaratively and reproducibly manage:
 3.  **Clone the repository:**
 
 ```bash
-git clone https://github.com/haidaianton/nixos-configuration.git
+git clone https://github.com/wlinja/nixos-configuration.git
 mv nixos-configuration nix
 cd ~/nix
 ```
